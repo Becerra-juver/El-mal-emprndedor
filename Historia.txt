@@ -4,3 +4,5 @@ Comienzo  de nuevo otro repositorio
 y vere que puedo hacer solo 
 
 Si funciona reset --hard borre todos los commist
+
+Agregare otro parrafo para ver lo que sucede con el comando git show
