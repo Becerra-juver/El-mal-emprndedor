@@ -1,4 +1,6 @@
 Historia  de como borre las carpetas de mi primer repositorio
 Comienzo  de nuevo otro repositorio
 
-y vere que puedo hacer solo 
+y vere que puedo hacer solo  y... parece que hice ele commit equivocado
+
+pero retomo porque no cree las ramas necesarias para esta Historia
