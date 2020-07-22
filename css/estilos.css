@@ -20,16 +20,9 @@ body{ background-color: aqua;
     margin: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+    
 }
-#container
-{
-    width: 70%;
-    padding: 1em;
-    text-align: center;
-    border: 1px;
-    margin: 0 auto;
-}
-#container h1 
+#container 
 {
 width: 70%;
 }
